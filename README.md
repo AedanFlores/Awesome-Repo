@@ -26,13 +26,21 @@ Game designer-Writes the story, designs levels in the game.
 
 Game programmer-creates programs to build the games mechanics and functionalities.
 Diciplines within game programming-
+
 Gameplay programming
+
 Network Programming
+
 Systems(engine) programming
+
 Ui programming
+
 AI programming
+
 physics programming
+
 Graphic programming
+
 Tools programming
 
 QA Tester-tests unreleased versions of the game for bugs, as well as unreleased code( for example, updates for a live service game)
