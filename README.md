@@ -25,6 +25,7 @@ https://gdevelop.io/
 Game designer-Writes the story, designs levels in the game.
 
 Game programmer-creates programs to build the games mechanics and functionalities.
+
 Diciplines within game programming-
 
 Gameplay programming
