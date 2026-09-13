@@ -21,4 +21,4 @@ https://www.image-line.com/
 
 https://gdevelop.io/
 
-
+# List of 5 game development career pathways
