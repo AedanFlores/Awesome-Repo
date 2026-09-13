@@ -22,3 +22,15 @@ https://www.image-line.com/
 https://gdevelop.io/
 
 # List of 5 game development career pathways
+Game designer-Writes the story, designs levels in the game.
+
+Game programmer-creates programs to build the games mechanics and functionalities.
+
+QA Tester-tests unreleased versions of the game for bugs, as well as unreleased code( for example, updates for a live service game)
+
+Game Artist- creates assets for games, like models or 2d art, as well as textures
+
+Game Animator- animates models and applies textures to the games, as well as creates visual elements like lighting to add to game visuals
+
+
+
